@@ -1,0 +1,150 @@
+body{
+  margin-top: 0;
+  text-align: center;
+  color: #40514E;
+font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+font-family: 'Pacifico', cursive;
+  font-size: 5.625rem;
+line-height: 2;
+color: #12D4E7 ;
+margin: 50px auto 0 auto;
+}
+
+h2{
+    font-family: 'Bree Serif', serif;
+    color: #48D1CC;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+h3{
+font-family: sans-serif;
+ color: #B0E0E6;
+ font-size: 20px;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover{
+  color: #D8BFD8;
+}
+
+hr{
+border: dotted #D8BFD8 6px;
+border-bottom-style: none;
+margin: 100px auto;
+width: 5%;
+
+}
+
+.developing{
+  font-family: 'Bree Serif', serif;
+  color: #12D4E7 ;
+  font-size: 32px;
+  padding-bottom: 10px;
+  font-weight: normal;
+
+}
+
+.top-container{
+  background-color: #cffffe;
+  position: relative;
+padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+background-color: #008080;
+padding: 50px 0 20px;
+}
+
+.Mountain{
+  position: absolute;
+}
+
+.girl{
+  max-height: 250px;
+padding-top: 20px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.coding{
+  max-height: 200px;
+  float: left;
+margin-right: 30px;
+width: 25%;
+}
+
+.cook{
+  max-height: 190px;
+  float: right;
+  clear: left;
+margin-left: 30px;
+width: 25%;
+}
+
+.skills-{
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin: 30px auto 100px auto;
+padding-top: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link{
+  margin-top: 10px;
+}
+
+.Copyright{
+  font-size: 0.75rem;
+  padding-top: 25px;
+}
